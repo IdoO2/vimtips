@@ -13,11 +13,11 @@ Usually command descriptions refer to emacs commands.
 **fill-paragraph**
 <br>**gq** + movement
 
-**(string-rectangle ...)**
+**string-rectangle ...**
 <br>**C-v** entres visual block mode, **S-i|a...** starts insertion, **Esc** exits visual block mode writing to full column
 
 ## Insert mode
 
-**(dabbrev-expand)** (M-/, autocomplete from buffers)
+**dabbrev-expand** (M-/, autocomplete from buffers)
 <br>**C-n**
 
