@@ -21,3 +21,7 @@ Usually command descriptions refer to emacs commands.
 **dabbrev-expand** (M-/, autocomplete from buffers)
 <br>**C-n**
 
+## Vimdiff
+
+**Ignore whitespace (diff -Bb)**
+`vimdiff -c 'set diffopt+=iwhite'`
